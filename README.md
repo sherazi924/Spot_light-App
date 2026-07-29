@@ -61,10 +61,4 @@ EXPO_PUBLIC_CONVEX_URL=your_convex_url
 
 ---
 
-## 📄 License
 
-MIT
-
----
-
-**Made with ❤️ by Aerospace**
