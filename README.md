@@ -38,9 +38,6 @@ https://github.com/user-attachments/assets/c1350208-998b-4111-8973-714dc169e07e
 ---
 
 ## 📥 Download
-
-[![Download APK](https://img.shields.io/badge/⬇️%20Download-APK-green?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Aerospace-prog/SpotLight-App/releases)
-
 ---
 
 ## 🛠️ Developer Setup
