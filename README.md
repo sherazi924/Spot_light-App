@@ -30,14 +30,6 @@ A modern, mobile-first social media app built with React Native, Expo, and Conve
 - Bug fixes and performance improvements
 
 ---
-
-## 📱 Preview
-
----
-
-## 📥 Download
----
-
 ## 🛠️ Developer Setup
 
 ```bash
