@@ -33,8 +33,6 @@ A modern, mobile-first social media app built with React Native, Expo, and Conve
 
 ## 📱 Preview
 
-https://github.com/user-attachments/assets/c1350208-998b-4111-8973-714dc169e07e
-
 ---
 
 ## 📥 Download
